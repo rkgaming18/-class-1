@@ -11,7 +11,7 @@
       color: #222;
     }
 
-    /* Header */
+  /* Header */
     .header {
       display: flex;
       align-items: center;
@@ -20,18 +20,18 @@
       border-bottom: 1px solid #ddd;
     }
 
-    .logo {
+   .logo {
       height: 50px;
       margin-right: 15px;
     }
 
-    .title {
+  .title {
       font-size: 20px;
       font-weight: bold;
       color: #d32f2f;
     }
 
-    /* Class Name */
+   /* Class Name */
     .class-title {
       text-align: center;
       margin-top: 30px;
@@ -39,7 +39,7 @@
       color: #2c3e50;
     }
 
-    /* Subject List */
+  /* Subject List */
     .subject-section {
       max-width: 500px;
       margin: 40px auto;
@@ -50,20 +50,20 @@
       box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
     }
 
-    .subject-section h2 {
+   .subject-section h2 {
       text-align: center;
       color: #4caf50;
       margin-bottom: 20px;
     }
 
-    .subject-list {
+  .subject-list {
       display: flex;
       flex-direction: column;
       gap: 12px;
       align-items: center;
     }
 
-    .subject-list a {
+  .subject-list a {
       display: inline-block;
       width: 80%;
       text-align: center;
@@ -76,11 +76,11 @@
       transition: background-color 0.3s;
     }
 
-    .subject-list a:hover {
+  .subject-list a:hover {
       background-color: #005fa3;
     }
 
-    @media (max-width: 500px) {
+   @media (max-width: 500px) {
       .subject-list a {
         width: 100%;
       }
@@ -104,9 +104,8 @@
     <div class="subject-list">
       <a href="https://rkgaming18.github.io/Assamese-1/">অসমীয়া</a><br>
       <a href="https://rkgaming18.github.io/English-1/">ইংৰাজী</a><br>
-      <a href="math.html">গণিত</a>
+      <a href="https://rkgaming18.github.io/Mathematics-1/">গণিত</a>
     </div>
   </section>
-
 </body>
 </html>
