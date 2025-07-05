@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="as">
 <head>
   <meta charset="UTF-8" />
@@ -103,7 +102,7 @@
   <section class="subject-section">
     <h2>📚 বিষয়</h2>
     <div class="subject-list">
-      <a href="assamese.html">অসমীয়া</a><br>
+      <a href="https://rkgaming18.github.io/Assamese-1/">অসমীয়া</a><br>
       <a href="english.html">ইংৰাজী</a><br>
       <a href="math.html">গণিত</a>
     </div>
