@@ -103,8 +103,8 @@
   <section class="subject-section">
     <h2>📚 বিষয়</h2>
     <div class="subject-list">
-      <a href="assamese.html">অসমীয়া</a>
-      <a href="english.html">ইংৰাজী</a>
+      <a href="assamese.html">অসমীয়া</a<br>
+      <a href="english.html">ইংৰাজী</a><br>
       <a href="math.html">গণিত</a>
     </div>
   </section>
