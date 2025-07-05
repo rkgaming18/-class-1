@@ -103,7 +103,7 @@
     <h2>📚 বিষয়</h2>
     <div class="subject-list">
       <a href="https://rkgaming18.github.io/Assamese-1/">অসমীয়া</a><br>
-      <a href="english.html">ইংৰাজী</a><br>
+      <a href="https://rkgaming18.github.io/English-1/">ইংৰাজী</a><br>
       <a href="math.html">গণিত</a>
     </div>
   </section>
