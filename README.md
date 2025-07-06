@@ -88,17 +88,13 @@
   </style>
 </head>
 <body>
-
-  <!-- Header -->
   <header class="header">
-    <img src="asim-logo.png" alt="অসীম Library Logo" class="logo" />
+    <img src="https://i.ibb.co/cSm0yNQ8/IMG-20250619-211951.jpg" alt="অসীম Library Logo" class="logo" />
     <div class="title">অসীম Library</div>
   </header>
 
-  <!-- Class Name -->
   <div class="class-title">📘 প্ৰথম শ্ৰেণী</div>
 
-  <!-- Subject Section -->
   <section class="subject-section">
     <h2>📚 বিষয়</h2>
     <div class="subject-list">
